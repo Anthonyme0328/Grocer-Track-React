@@ -7,6 +7,10 @@
 
 }
 
+.headingBox:hover{
+  color:green;
+}
+
 
 .heading{
   text-align: center;
