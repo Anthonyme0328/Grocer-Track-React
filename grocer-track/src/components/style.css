@@ -1,0 +1,14 @@
+
+.headingBox{
+  justify-content: center;
+  background-color: gray;
+  border-radius: 15px;
+  box-shadow: 5px 10px 8px #888888;
+
+}
+
+
+.heading{
+  text-align: center;
+  font-size: 15vh;
+}
