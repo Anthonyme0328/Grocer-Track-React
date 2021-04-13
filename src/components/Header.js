@@ -1,8 +1,7 @@
 import React from 'react';
 import './style.css';
 
-export class Header extends React.Component {
-  render (){
+export const Header = () => {
     return(
       <div>
         <div className= 'headingBox'>
@@ -12,5 +11,4 @@ export class Header extends React.Component {
         </div>
       </div>
     )
-  }
 }
